@@ -11,6 +11,18 @@
     flex-wrap: wrap;
 }
 
-hero img{
-    width: 100vw;
+#hero {
+    margin-bottom: 5em;
+}
+
+#hero img{
+    width: 100%;
+}
+
+article p {
+    width: 40rem;
+}
+
+aside p {
+    width: 20rem;
 }

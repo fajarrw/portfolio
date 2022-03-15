@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+hero img{
+    width: 100vw;
+}
